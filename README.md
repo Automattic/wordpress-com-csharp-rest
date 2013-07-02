@@ -1,4 +1,4 @@
-﻿# WordPress REST Client for C#
+# WordPress REST Client for C Sharp
 
 ## Usage
 
